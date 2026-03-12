@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digi-garden-home/","tags":["gardenEntry"],"created":"2026-03-10T18:23:48.550-04:00","updated":"2026-03-12T16:37:19.602-04:00"}
+{"dg-publish":true,"permalink":"/digi-garden-home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-03-10T18:23:48.550-04:00","updated":"2026-03-12T16:37:19.602-04:00"}
 ---
 
 This note is set to be the *''dg-home"* note.  I'll use this to link other notes to that I want to share online.
