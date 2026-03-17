@@ -7,9 +7,9 @@
 
 Welcome to my Digital Garden!  
 	
-	1. [[What is a Digital Garden?\|What is a Digital Garden?]] 
-	2. [[Linux Distro Reviews\|Linux Distro Reviews]]
-	3. [[Berean Standard Bible/Berean Standard Bible\|Berean Standard Bible]]
+	1. [[Digital Garden/What is a Digital Garden?\|What is a Digital Garden?]] 
+	2. [[Linux Distros/Linux Distro Reviews\|Linux Distro Reviews]]
+	3. [[The Holy Bible/Berean Standard Bible/Berean Standard Bible\|Berean Standard Bible]]
 	4. [[Things I'm Working On\|Things I'm Working On]]
 	5. 
 	6. 
