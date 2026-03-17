@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/linux-distros/linux-distro-reviews/","noteIcon":"1","created":"2026-03-12T19:33:36.806-04:00","updated":"2026-03-17T12:05:28.967-04:00"}
+{"dg-publish":true,"permalink":"/linux-distros/linux-distro-reviews/","noteIcon":"1","created":"2026-03-12T19:33:36.806-04:00","updated":"2026-03-17T15:29:10.507-04:00"}
 ---
 
 Date:  03-12-2026 Week 11 Day 71
-
-# Linux Distro Reviews
 
 1. [[Linux Distros/Fedora\|Fedora]]
 2. [[Linux Distros/CachyOS\|CachyOS]]

@@ -3,7 +3,7 @@
 ---
 
 ![papas workshop banner2.jpg](/img/user/Attachments/papas%20workshop%20banner2.jpg)
-![[JoeCollettSr.jpg\|JoeCollettSr.jpg]]
+![JoeCollettSr.jpg](/img/user/Attachments/JoeCollettSr.JPG)
 
 
 
