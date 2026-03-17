@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/what-is-a-digital-garden/","noteIcon":"1","created":"2026-03-16T17:34:28.107-04:00","updated":"2026-03-17T15:15:04.484-04:00"}
+{"dg-publish":true,"permalink":"/digital-garden/what-is-a-digital-garden/","noteIcon":"2","created":"2026-03-16T17:34:28.107-04:00","updated":"2026-03-17T15:34:01.683-04:00"}
 ---
 
 ![DigitalGarden.jpg](/img/user/Attachments/DigitalGarden.jpg)
