@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/i-hate-windows/","noteIcon":"1","created":"2026-03-17T12:51:40.596-04:00","updated":"2026-03-18T19:24:43.231-04:00"}
+{"dg-publish":true,"permalink":"/i-hate-windows/","noteIcon":"1","created":"2026-03-17T12:51:40.596-04:00","updated":"2026-03-18T19:39:51.664-04:00"}
 ---
 
 Why do I hate Windows?  Let me count the ways...
@@ -19,7 +19,7 @@ But, let's get back on track. Why do I hate Windows?
 - Windows has just always gotten in my way.  
 - Windows doesn't play well with others.
 - Windows is, and always has been, a resource hog.
-- While I truly hate myself for using a phrase coined by Barack Obama, all windows ever was is 'lipstick on a pig'.  Note that a pig is not a bad thing, actually, it's totally necessary.  I mean shit; ham, bacon sausage.  How would poultry haters like me survive?  It's just that lipstick and pigs just don't belong together; certainly. not the way Microsoft does it.
+- While I truly hate myself for using a phrase coined by Barack Obama, all windows ever was is 'lipstick on a pig'.  (To be clear, the President wasn't slamming Microsoft.  I think he was talking about a republican budget proposal, or something. But the description is an apt one for Windows.)  Note that a pig is not a bad thing, actually, it's totally necessary.  I mean shit; ham, bacon sausage.  How would poultry haters like me survive?  It's just that lipstick and pigs just don't belong together; certainly. not the way Microsoft does it.
 	- The pig here is the [[Operating System (OS)\|Operating System (OS)]]; further, the Disk Operating System (DOS), specifically [[MS DOS\|MS DOS]] (MS for Microsoft, in case you didn't catch it)
 	- The lipstick is Windows.
 - People (users) 'interface' with the Personal Computer (PC) via a User Interface (UI).  
