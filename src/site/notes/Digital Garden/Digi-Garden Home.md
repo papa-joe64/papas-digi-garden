@@ -11,7 +11,7 @@
 
 Welcome to my Digital Garden!  
 	
-	1. [[My Beliefs\|My Beliefs]]
+	1. [[Spirituality/My Beliefs\|My Beliefs]]
 	2. [[Digital Garden/What is a Digital Garden?\|What is a Digital Garden?]] 
 	3. [[Linux Distros/Linux Distro Reviews\|Linux Distro Reviews]]
 	4. [[The Holy Bible/Berean Standard Bible/Berean Standard Bible\|Berean Standard Bible]]
