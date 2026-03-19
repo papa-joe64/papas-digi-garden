@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/i-hate-windows/","noteIcon":"1","created":"2026-03-17T12:51:40.596-04:00","updated":"2026-03-18T20:46:46.002-04:00"}
+{"dg-publish":true,"permalink":"/i-hate-windows/","noteIcon":"1","created":"2026-03-17T12:51:40.596-04:00","updated":"2026-03-18T21:02:29.696-04:00"}
 ---
 
-Why do I hate Windows?  Let me count the ways...
+Why do I hate Windows?  Let me count the reasons...
 
 First, you gotta consider my background.  My tech education is in [[Computer Science (CS)\|Computer Science (CS)]].  [[Information Technology (IT)\|Information Technology (IT)]] wasn't yet recognized as a higher education track.  Both CS and IT are current higher ed tracks, each with their own focus. I'll dive into each at one point in greater detail.
 
@@ -25,6 +25,7 @@ But, let's get back on track. Why do I hate Windows?
 - Windows thinks it's the operating system.  It is not!  Windows IS NOT an OS, it is a front end! And should, by God, behave itself as such! However, it does not.
 - People ([[Users\|Users]]) 'interface' with the [[Personal Computer (PC)\|Personal Computer (PC)]] via a [[User Interface (UI)\|User Interface (UI)]].  Some folk that have been around the block a time or two call the UI the "[[Front End\|Front End]]".
 - Windows is not an operating system.  Did I say that already?  Well, it's important; maybe you should write it down.  In it's position as the 'front end', it shouldn't and needn't take and retain control over all the systems resources.  Be a good UI and use what you need, and then GIVE IT BACK to the OS so other operations can use what they need, which they will then (unless owned by Microsoft), happily release the resources back to the OS.  "Why can't we all just get along?"  Feel like I've been asking that my whole life.
+- 
 
 
 
